@@ -1,0 +1,27 @@
+{
+  "nodes": {
+    "nixpkgs": {
+      "locked": {
+        "lastModified": 1794668788,
+        "narHash": "sha256-n1XBikO5+1g0C+RKqSHdtY5sMXM6qqlWoWpDRH+ppZk=",
+        "owner": "loongson-community",
+        "repo": "nixpkgs",
+        "rev": "f1d67b7b3e249a50432210eb1deed821c96f08b8",
+        "type": "github"
+      },
+      "original": {
+        "owner": "loongson-community",
+        "ref": "loong-master-next",
+        "repo": "nixpkgs",
+        "type": "github"
+      }
+    },
+    "root": {
+      "inputs": {
+        "nixpkgs": "nixpkgs"
+      }
+    }
+  },
+  "root": "root",
+  "version": 7
+}
